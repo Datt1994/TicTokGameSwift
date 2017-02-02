@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  TicTokGame
-//
-//  Created by karishma on 2/1/17.
-//  Copyright © 2017 karishma. All rights reserved.
-//
+
 
 import UIKit
 
